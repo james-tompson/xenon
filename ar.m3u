@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBCDrama.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama
+http://149.100.11.235:8080/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-id="CBC.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama 2
+http://185.9.2.18/chid_680/index.m3u8
