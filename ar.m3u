@@ -3,3 +3,15 @@
 http://149.100.11.235:8080/CBCDrama/index.m3u8
 #EXTINF:-1 tvg-id="CBC.eg@SD" tvg-logo="https://i.imgur.com/I8YdakH.png" group-title="Series",CBC Drama 2
 http://185.9.2.18/chid_680/index.m3u8
+#EXTINF:-1 tvg-id="NileDrama.eg@SD" tvg-logo="https://imgur.com/FasJFMM.png" group-title="Series",Nile Drama
+http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa@SD" tvg-logo="https://i.imgur.com/btnhPjZ.png" group-title="Series",Rotana Drama
+http://185.9.2.18/chid_2179/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr.eg@SD" tvg-logo="https://i.imgur.com/o2elx0u.png" group-title="Series",MBC Masr
+http://185.9.2.18/chid_742/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-logo="https://i.imgur.com/KHo7Gtn.png" group-title="Series",MBC Masr 2
+http://185.9.2.18/chid_743/index.m3u8
+#EXTINF:-1 tvg-id="MBCDrama.ae@SD" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Series",MBC Drama
+http://185.9.2.18/chid_382/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae@SD" tvg-logo="https://imgur.com/fNA00VF.png" group-title="Series",National Geographic Abu Dhabi
+http://185.9.2.18/chid_597/index.m3u8
